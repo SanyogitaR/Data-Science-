@@ -39,7 +39,7 @@ Segment customers into distinct groups based on their demographic and purchasing
 
 ## 🧪 Results
 
-- Optimal clusters: **5**
+- Optimal clusters: **4**
 - Each cluster represents a unique customer group with different traits and shopping habits
 - Visualizations highlight how customers differ by income, age, product interests, etc.
 
